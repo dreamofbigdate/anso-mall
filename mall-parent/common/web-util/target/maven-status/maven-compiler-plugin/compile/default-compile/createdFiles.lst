@@ -1,0 +1,2 @@
+com\anso\mall\common\handler\GlobalExceptionHandler.class
+com\anso\mall\common\interceptor\FeignInterceptor.class

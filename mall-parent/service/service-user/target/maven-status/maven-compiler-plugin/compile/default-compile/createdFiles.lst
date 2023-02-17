@@ -1,0 +1,5 @@
+com\anso\mall\user\mapper\UserInfoMapper.class
+com\anso\mall\user\ServiceUserApplication.class
+com\anso\mall\user\service\impl\UserServiceImpl.class
+com\anso\mall\user\service\UserService.class
+com\anso\mall\user\controller\PassportApiController.class

@@ -1,0 +1,8 @@
+com\anso\mall\common\util\DateUtil.class
+com\anso\mall\common\result\Result.class
+com\anso\mall\common\result\ResultCodeEnum.class
+com\anso\mall\common\util\HttpClientUtil.class
+com\anso\mall\common\util\IpUtil.class
+com\anso\mall\common\util\MD5.class
+com\anso\mall\common\util\AuthContextHolder.class
+com\anso\mall\common\exception\GmallException.class
