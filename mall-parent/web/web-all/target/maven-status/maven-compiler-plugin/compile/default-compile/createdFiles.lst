@@ -1,0 +1,5 @@
+com\anso\mall\all\controller\IndexController.class
+com\anso\mall\all\controller\PassportController.class
+com\anso\mall\all\WebAllApplication.class
+com\anso\mall\all\controller\ItemController.class
+com\anso\mall\all\controller\ListController.class

@@ -1,0 +1,8 @@
+com\anso\mall\common\cache\GmallCacheAspect.class
+com\anso\mall\common\constant\RedisConst.class
+com\anso\mall\common\cache\GmallCache.class
+com\anso\mall\common\config\MybatisPlusConfig.class
+com\anso\mall\common\config\RedisConfig.class
+com\anso\mall\common\config\RedissonConfig.class
+com\anso\mall\common\config\Swagger2Config.class
+com\anso\mall\common\handler\GlobalExceptionHandler.class

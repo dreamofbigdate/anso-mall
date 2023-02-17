@@ -1,0 +1,5 @@
+com\anso\mall\list\repository\GoodsRepository.class
+com\anso\mall\list\service\impl\SearchServiceImpl.class
+com\anso\mall\list\service\SearchService.class
+com\anso\mall\list\ServiceListApplication.class
+com\anso\mall\list\controller\ListApiController.class

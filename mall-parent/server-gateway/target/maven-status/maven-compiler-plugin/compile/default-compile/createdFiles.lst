@@ -1,0 +1,4 @@
+com\anso\mall\gateway\filter\AuthGlobalFilter.class
+com\anso\mall\gateway\config\CorsConfig.class
+com\anso\mall\gateway\ServerGatewayApplication.class
+com\anso\mall\gateway\config\RedisConfig.class
